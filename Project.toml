@@ -1,0 +1,4 @@
+name = "Graphene_Mesomechanics"
+uuid = "e790012a-fba9-405a-b17a-c29151dba06c"
+authors = ["BIAN, Peiliang <47040923+bplcn@users.noreply.github.com>"]
+version = "0.1.0"
